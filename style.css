@@ -1,0 +1,28 @@
+.footer {
+	display: flex;
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+}
+div{
+	
+    justify-content: center
+}
+.footer a{
+	text-decoration: none;
+    color: white;
+}
+form{
+  max-width: 500px;
+  margin: auto;
+  padding: 10px;
+}
+.card{
+  margin: 1em;
+}
+.my-3{
+margin: 1em;
+}
